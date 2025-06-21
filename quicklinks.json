@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Gmail",
+    "url": "https://mail.google.com",
+    "icon": "📧"
+  },
+  {
+    "name": "Notion",
+    "url": "https://notion.so",
+    "icon": "📝"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "icon": "🤖"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://youtube.com",
+    "icon": "🎥"
+  }
+]
